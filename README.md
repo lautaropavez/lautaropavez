@@ -67,10 +67,8 @@ Python ETL pipeline that extracts, transforms and classifies financial transacti
 
 ---
 
-## 📚 Currently Learning
+## 📚 Current Focus
 
-* Advanced SQL
-* Java backend development
 * AWS Cloud Practitioner fundamentals
 * Data automation workflows
 
