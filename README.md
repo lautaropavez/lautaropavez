@@ -43,7 +43,7 @@ I enjoy building solutions that combine business logic, databases, process autom
 
 ### El Ceibo — Online Library Management System
 
-Full-stack web application developed with **Java, Spring Boot and MySQL** for managing users, books, reservations and administrative operations.
+Full-stack web application built with **Java, Spring Boot and MySQL** to manage a public book catalog, user accounts, loans and returns.
 
 * CRUD operations for users, books and reservations.
 * MVC architecture using controllers, services, repositories and entities.
