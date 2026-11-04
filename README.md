@@ -40,7 +40,7 @@ I'm interested in opportunities involving **Data Automation, Python/SQL, ETL, Da
 
 ## Contact
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lautaropavez/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lautaro-pavez/)
 
 ---
 
