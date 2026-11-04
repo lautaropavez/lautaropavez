@@ -1,80 +1,47 @@
-# Hi, I'm Lautaro Pavez 👋
+# Hi, I'm Lautaro Pavez
 
-**Java Backend Developer | Spring Boot · SQL · Python · Data Automation**
+**Python · SQL · Data Automation · ETL**
 
-I'm a developer focused on backend development with **Java, Spring Boot and SQL**, with additional experience in **Python, data automation and ETL processes**.
+I'm based in Mendoza, Argentina, and I'm focused on building practical tools that turn raw information into reliable, usable data.
 
-I enjoy building solutions that combine business logic, databases, process automation and clear problem-solving.
+My background in logistics and operations helps me understand real business workflows, inventory tracking, and data consistency.
 
----
+## Featured work
 
-## 🚀 Tech Stack
+### Gastos Express — Financial Data ETL *(in progress)*
 
-### Backend
+A Python pipeline to extract transactions from PDF bank statements, clean and standardize records, apply categorization rules, and generate analytical outputs.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+**Current focus:** validating ARS/USD transactions, strengthening data quality checks, and preparing a safe public demo with synthetic data. The project includes AWS S3 integration.
 
-### Databases
+### SQL practice
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+Hands-on SQL exercises covering filtering, aggregations, joins, subqueries, CTEs, and window functions as I progress.
 
-### Data & Automation
+## Tech stack & tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Data%20Automation-blue?style=for-the-badge)
+| Area | Technologies |
+| --- | --- |
+| **Programming** | Python, SQL |
+| **Data processing & analysis** | pandas, Jupyter Notebook, matplotlib, pdfplumber |
+| **Databases** | SQLite, MySQL |
+| **Automation & cloud** | Python ETL scripts, boto3, AWS S3 |
+| **Development tools** | Git, GitHub, VS Code |
 
-### Tools
+## Currently learning
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+- SQL for data analysis and automation
+- AWS Cloud Practitioner fundamentals *(studying, not yet certified)*
+- Data quality, testing, and reproducible pipelines
 
----
+## Career interests
 
-## 📌 Featured Projects
+I'm interested in opportunities involving **Data Automation, Python/SQL, ETL, Data Analysis, and Data Operations**, preferably remote.
 
-### El Ceibo — Online Library Management System
+## Contact
 
-Full-stack web application built with **Java, Spring Boot and MySQL** to manage a public book catalog, user accounts, loans and returns.
-
-* CRUD operations for users, books and reservations.
-* MVC architecture using controllers, services, repositories and entities.
-* Data persistence with Spring Data JPA / Hibernate.
-* Web views with Thymeleaf, HTML, CSS and Bootstrap.
-
-**Technologies:** Java · Spring Boot · Spring MVC · Spring Data JPA · MySQL · Thymeleaf · Maven · Git
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lautaropavez/)
 
 ---
 
-### Análisis de Consumos — Modular ETL Pipeline
-
-Python ETL pipeline that extracts, transforms and classifies financial transactions from PDF documents, generates visualizations and stores processed results in AWS S3.
-
-* Automated extraction of semi-structured data from PDFs.
-* Data cleaning, transformation and classification with pandas.
-* Processed datasets for analysis and visualization.
-* AWS S3 integration using boto3.
-
-**Technologies:** Python · pandas · pdfplumber · boto3 · AWS S3 · matplotlib · Git
-
----
-
-## 📚 Current Focus
-
-* AWS Cloud Practitioner fundamentals
-* Data automation workflows
-
----
-
-## 🤝 Contact
-
-* LinkedIn: [linkedin.com/in/lautaropavez](https://www.linkedin.com/in/lautaropavez)
-* GitHub: [github.com/lautaropavez](https://github.com/lautaropavez)
+*Projects and skills are described according to their current state. Public demos will be linked after validation.*
